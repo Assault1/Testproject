@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="85848" started-at="2019-01-18T14:27:06Z" finished-at="2019-01-18T14:28:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="85848" started-at="2019-01-18T14:27:06Z" finished-at="2019-01-18T14:28:32Z">
+      <class name="TestAutomation.TestProject.AppTest1">
+        <test-method status="PASS" signature="TC1()[pri:1, instance:TestAutomation.TestProject.AppTest1@7e2d773b]" name="TC1" duration-ms="6206" started-at="2019-01-18T14:27:06Z" finished-at="2019-01-18T14:27:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method status="PASS" signature="TC2()[pri:2, instance:TestAutomation.TestProject.AppTest1@7e2d773b]" name="TC2" duration-ms="27" started-at="2019-01-18T14:27:12Z" finished-at="2019-01-18T14:27:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method status="PASS" signature="TC3()[pri:3, instance:TestAutomation.TestProject.AppTest1@7e2d773b]" name="TC3" duration-ms="73" started-at="2019-01-18T14:27:12Z" finished-at="2019-01-18T14:27:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method status="PASS" signature="TC4()[pri:4, instance:TestAutomation.TestProject.AppTest1@7e2d773b]" name="TC4" duration-ms="27" started-at="2019-01-18T14:27:12Z" finished-at="2019-01-18T14:27:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4 -->
+        <test-method status="PASS" signature="TC5()[pri:5, instance:TestAutomation.TestProject.AppTest1@7e2d773b]" name="TC5" duration-ms="637" started-at="2019-01-18T14:27:12Z" finished-at="2019-01-18T14:27:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC5 -->
+        <test-method status="PASS" signature="TC6()[pri:6, instance:TestAutomation.TestProject.AppTest1@7e2d773b]" name="TC6" duration-ms="65598" started-at="2019-01-18T14:27:13Z" finished-at="2019-01-18T14:28:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC6 -->
+        <test-method status="PASS" signature="TC7()[pri:7, instance:TestAutomation.TestProject.AppTest1@7e2d773b]" name="TC7" duration-ms="2122" started-at="2019-01-18T14:28:19Z" finished-at="2019-01-18T14:28:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC7 -->
+        <test-method status="PASS" signature="TC8()[pri:8, instance:TestAutomation.TestProject.AppTest1@7e2d773b]" name="TC8" duration-ms="1424" started-at="2019-01-18T14:28:21Z" finished-at="2019-01-18T14:28:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC8 -->
+        <test-method status="PASS" signature="TC9()[pri:9, instance:TestAutomation.TestProject.AppTest1@7e2d773b]" name="TC9" duration-ms="573" started-at="2019-01-18T14:28:22Z" finished-at="2019-01-18T14:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC9 -->
+        <test-method status="PASS" signature="TC10()[pri:10, instance:TestAutomation.TestProject.AppTest1@7e2d773b]" name="TC10" duration-ms="538" started-at="2019-01-18T14:28:23Z" finished-at="2019-01-18T14:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC10 -->
+        <test-method status="PASS" signature="TC11()[pri:11, instance:TestAutomation.TestProject.AppTest1@7e2d773b]" name="TC11" duration-ms="4055" started-at="2019-01-18T14:28:23Z" finished-at="2019-01-18T14:28:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC11 -->
+        <test-method status="PASS" signature="TC12()[pri:12, instance:TestAutomation.TestProject.AppTest1@7e2d773b]" name="TC12" duration-ms="914" started-at="2019-01-18T14:28:27Z" finished-at="2019-01-18T14:28:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC12 -->
+        <test-method status="PASS" signature="TC13()[pri:13, instance:TestAutomation.TestProject.AppTest1@7e2d773b]" name="TC13" duration-ms="1548" started-at="2019-01-18T14:28:28Z" finished-at="2019-01-18T14:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC13 -->
+        <test-method status="PASS" signature="TC14()[pri:14, instance:TestAutomation.TestProject.AppTest1@7e2d773b]" name="TC14" duration-ms="1268" started-at="2019-01-18T14:28:30Z" finished-at="2019-01-18T14:28:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC14 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestAutomation.TestProject.AppTest1@7e2d773b]" name="close" is-config="true" duration-ms="765" started-at="2019-01-18T14:28:31Z" finished-at="2019-01-18T14:28:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestAutomation.TestProject.AppTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
