@@ -1,6 +1,6 @@
 # Testproject
 
 # Test project to automate website http://computer-database.herokuapp.com/computers
-# properties files conatian URL, locator and Test data
-# It has one Apptest1 in which all test is written.
+# Properties files conatian URL, locator and Test data
+# Apptest1 has all test case and its ordering.
 # BaseTest contains utility functions.
